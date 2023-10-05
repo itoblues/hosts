@@ -5,7 +5,6 @@
 127.0.0.1	appollo-plus.com
 127.0.0.1	appollo.jp
 127.0.0.1	c.amazon-adsystem.com
-127.0.0.1	cdn.tokyo-motion.net
 127.0.0.1	cdn.tsyndicate.com
 127.0.0.1	cfivfadtlr.com
 127.0.0.1	cloudfront-labs.amazonaws.com
