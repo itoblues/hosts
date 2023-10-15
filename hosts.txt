@@ -42,3 +42,5 @@
 127.0.0.1	int.akisinn.info
 127.0.0.1	plundertentative.com
 127.0.0.1	vast.yomeno.xyz
+127.0.0.1	static.cloudflareinsights.com
+127.0.0.1	gsjln04hd.com
