@@ -42,10 +42,9 @@
 127.0.0.1	unagi-fe.amazon.com
 127.0.0.1	vast.yomeno.xyz
 127.0.0.1	www.google-analytics.com
-127.0.0.1 etahub.com
-127.0.0.1 static.trafficjunky.com
-127.0.0.1 hubt.pornhub.com
-
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	zatnoh.com
+127.0.0.1 etahub.com	
+127.0.0.1 hubt.pornhub.com	
+127.0.0.1 static.trafficjunky.com	
