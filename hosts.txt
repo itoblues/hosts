@@ -8,11 +8,14 @@
 127.0.0.1	cdn.tsyndicate.com
 127.0.0.1	cfivfadtlr.com
 127.0.0.1	cloudfront-labs.amazonaws.com
+127.0.0.1	creative.bbrdbr.com
 127.0.0.1	dubunwiseobjections.com
+127.0.0.1	etahub.com
 127.0.0.1	fam-ad.com
 127.0.0.1	glssp.net
 127.0.0.1	gorillasneer.com
 127.0.0.1	gsjln04hd.com
+127.0.0.1	hubt.pornhub.com
 127.0.0.1	img.ad-nex.com
 127.0.0.1	int.akisinn.info
 127.0.0.1	j.microad.net
@@ -35,6 +38,7 @@
 127.0.0.1	ssl.google-analytics.com
 127.0.0.1	sstatic1.histats.com
 127.0.0.1	static.cloudflareinsights.com
+127.0.0.1	static.trafficjunky.com
 127.0.0.1	stats.wordpress.com
 127.0.0.1	stats.wp.com
 127.0.0.1	syndication.realsrv.com
@@ -45,6 +49,3 @@
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	zatnoh.com
-127.0.0.1 etahub.com	
-127.0.0.1 hubt.pornhub.com	
-127.0.0.1 static.trafficjunky.com	
