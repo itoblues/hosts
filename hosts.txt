@@ -49,3 +49,12 @@
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	zatnoh.com
+127.0.0.1	forestallbladdermajestic.com
+127.0.0.1	a.magsrv.com
+127.0.0.1	sun.creativecarrer.com
+127.0.0.1	cdn.microad.jp
+127.0.0.1	x9.shinobi.jp
+127.0.0.1	static.adxadserv.com
+127.0.0.1	help.fanza.cc
+127.0.0.1	creative.xlivrdr.com
+127.0.0.1	enrichyummy.com
