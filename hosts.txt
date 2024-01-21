@@ -26,6 +26,7 @@
 127.0.0.1	img.ad-nex.com
 127.0.0.1	int.akisinn.info
 127.0.0.1	j.microad.net
+127.0.0.1	ja.live.tktube.com
 127.0.0.1	js.boost-next.co.jp
 127.0.0.1	js.juicyads.com
 127.0.0.1	js.smac-ad.com
