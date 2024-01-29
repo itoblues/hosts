@@ -60,3 +60,10 @@
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
+127.0.0.1	ointmentbarely.com
+127.0.0.1	gateway.pinata.cloud
+127.0.0.1	rkgwzfwjgk.com
+127.0.0.1	a.pemsrv.com
+127.0.0.1	pagead2.googlesyndication.com
+127.0.0.1	hmxg5mhyx.com
+127.0.0.1	t7cp4fldl.com
