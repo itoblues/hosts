@@ -1,4 +1,5 @@
 127.0.0.1	a.magsrv.com
+127.0.0.1	a.pemsrv.com
 127.0.0.1	a.realsrv.com
 127.0.0.1	aax-fe.amazon-adsystem.com
 127.0.0.1	adm.shinobi.jp
@@ -18,10 +19,12 @@
 127.0.0.1	etahub.com
 127.0.0.1	fam-ad.com
 127.0.0.1	forestallbladdermajestic.com
+127.0.0.1	gateway.pinata.cloud
 127.0.0.1	glssp.net
 127.0.0.1	gorillasneer.com
 127.0.0.1	gsjln04hd.com
 127.0.0.1	help.fanza.cc
+127.0.0.1	hmxg5mhyx.com
 127.0.0.1	hubt.pornhub.com
 127.0.0.1	img.ad-nex.com
 127.0.0.1	int.akisinn.info
@@ -34,11 +37,14 @@
 127.0.0.1	js.wpadmngr.com
 127.0.0.1	leveragebestow.com
 127.0.0.1	nullsglitter.com
+127.0.0.1	ointmentbarely.com
+127.0.0.1	pagead2.googlesyndication.com
 127.0.0.1	plundertentative.com
 127.0.0.1	pompass.net
 127.0.0.1	poweredby.jads.co
 127.0.0.1	puppyderisiverear.com
 127.0.0.1	rcm.shinobi.jp
+127.0.0.1	rkgwzfwjgk.com
 127.0.0.1	rt.gsspat.jp
 127.0.0.1	rxeosevsso.com
 127.0.0.1	s7.addthis.com
@@ -52,6 +58,7 @@
 127.0.0.1	stats.wp.com
 127.0.0.1	sun.creativecarrer.com
 127.0.0.1	syndication.realsrv.com
+127.0.0.1	t7cp4fldl.com
 127.0.0.1	unagi.amazon.co.jp
 127.0.0.1	unagi-fe.amazon.com
 127.0.0.1	vast.yomeno.xyz
@@ -60,10 +67,3 @@
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
-127.0.0.1	ointmentbarely.com
-127.0.0.1	gateway.pinata.cloud
-127.0.0.1	rkgwzfwjgk.com
-127.0.0.1	a.pemsrv.com
-127.0.0.1	pagead2.googlesyndication.com
-127.0.0.1	hmxg5mhyx.com
-127.0.0.1	t7cp4fldl.com
