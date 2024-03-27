@@ -67,3 +67,6 @@
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
+127.0.0.1	uvi-5556.videotouch88.info
+127.0.0.1	us.superfasti.co
+127.0.0.1	cfivfadtlr.com
