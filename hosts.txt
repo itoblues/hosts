@@ -21,6 +21,7 @@
 127.0.0.1	forestallbladdermajestic.com
 127.0.0.1	gateway.pinata.cloud
 127.0.0.1	glssp.net
+127.0.0.1	gmoyu0y9y.com
 127.0.0.1	gorillasneer.com
 127.0.0.1	gsjln04hd.com
 127.0.0.1	help.fanza.cc
@@ -36,6 +37,8 @@
 127.0.0.1	js.waqool.com
 127.0.0.1	js.wpadmngr.com
 127.0.0.1	leveragebestow.com
+127.0.0.1	mc.yandex.ru
+127.0.0.1	negxkj5ca.com
 127.0.0.1	nullsglitter.com
 127.0.0.1	ointmentbarely.com
 127.0.0.1	pagead2.googlesyndication.com
@@ -43,6 +46,7 @@
 127.0.0.1	pompass.net
 127.0.0.1	poweredby.jads.co
 127.0.0.1	puppyderisiverear.com
+127.0.0.1	puppyderisiverearnegxkj5ca.com
 127.0.0.1	rcm.shinobi.jp
 127.0.0.1	rkgwzfwjgk.com
 127.0.0.1	rt.gsspat.jp
@@ -61,12 +65,11 @@
 127.0.0.1	t7cp4fldl.com
 127.0.0.1	unagi.amazon.co.jp
 127.0.0.1	unagi-fe.amazon.com
+127.0.0.1	us.superfasti.co
+127.0.0.1	uvi-5556.videotouch88.info
 127.0.0.1	vast.yomeno.xyz
 127.0.0.1	www.google-analytics.com
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
-127.0.0.1	uvi-5556.videotouch88.info
-127.0.0.1	us.superfasti.co
-127.0.0.1	cfivfadtlr.com
