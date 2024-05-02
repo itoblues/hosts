@@ -1,6 +1,7 @@
 127.0.0.1	a.magsrv.com
 127.0.0.1	a.pemsrv.com
 127.0.0.1	a.realsrv.com
+127.0.0.1	a.adtng.com
 127.0.0.1	aax-fe.amazon-adsystem.com
 127.0.0.1	adm.shinobi.jp
 127.0.0.1	adsessionserv.com
@@ -51,6 +52,7 @@
 127.0.0.1	rkgwzfwjgk.com
 127.0.0.1	rt.gsspat.jp
 127.0.0.1	rxeosevsso.com
+127.0.0.1	s.o333o.com
 127.0.0.1	s7.addthis.com
 127.0.0.1	srv1.aaacompany.net
 127.0.0.1	ssl.google-analytics.com
