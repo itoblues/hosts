@@ -1,3 +1,7 @@
+
+127.0.0.1	creative.tklivechat.com
+127.0.0.1	sstatic1.histats.com
+127.0.0.1	5ivy3ikkt.com
 127.0.0.1	a.magsrv.com
 127.0.0.1	a.pemsrv.com
 127.0.0.1	a.realsrv.com
