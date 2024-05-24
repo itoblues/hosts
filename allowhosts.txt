@@ -21,3 +21,5 @@ cdn.fluidplayer.com
 game.fc2.com
 translate-pa.googleapis.com
 s.youtube.com
+*.phncdn.com
+certificates.godaddy.com
