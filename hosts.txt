@@ -130,3 +130,5 @@
 127.0.0.1	zatnoh.com
 127.0.0.1	endowmentoverhangutmost.com
 127.0.0.1	glutenmuttsensuous.com
+127.0.0.1	cs.ademon.net
+127.0.0.1	edayo.ademon.net
