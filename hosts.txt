@@ -128,3 +128,5 @@
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
+127.0.0.1	endowmentoverhangutmost.com
+127.0.0.1	glutenmuttsensuous.com
