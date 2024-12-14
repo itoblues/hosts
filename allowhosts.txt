@@ -23,3 +23,4 @@ translate-pa.googleapis.com
 s.youtube.com
 *.phncdn.com
 certificates.godaddy.com
+aax-fe.amazon-adsystem.com
