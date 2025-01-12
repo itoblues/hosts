@@ -1,6 +1,7 @@
 127.0.0.1	0xyjcqdxp.com
 127.0.0.1	5ivy3ikkt.com
 127.0.0.1	a.adtng.com
+127.0.0.1	a.exdynsrv.com
 127.0.0.1	a.magsrv.com
 127.0.0.1	a.nel.cloudflare.com
 127.0.0.1	a.pemsrv.com
@@ -120,6 +121,7 @@
 127.0.0.1	s.pemsrv.com
 127.0.0.1	s3t3d2y8.afcdn.net
 127.0.0.1	s7.addthis.com
+127.0.0.1	saltsleaseholder.com
 127.0.0.1	script.4dex.io
 127.0.0.1	spadsync.com
 127.0.0.1	srv1.aaacompany.net
@@ -151,7 +153,8 @@
 127.0.0.1	www.google-analytics.com
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.gravatar.com
+127.0.0.1	www.hbzgpvvhbqi.com
+127.0.0.1	www.hffqwdkpmqbmwu.com
 127.0.0.1	www.videosprofitnetwork.com
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
-127.0.0.1	saltsleaseholder.com
