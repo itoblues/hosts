@@ -160,3 +160,7 @@
 127.0.0.1	zatnoh.com
 127.0.0.1	bankingbloatedcaptive.com
 127.0.0.1	playhubconnect.com
+127.0.0.1	drabimprovement.com
+127.0.0.1	misazbog.com
+127.0.0.1	4ad8ea329d.f168b7fa34.com
+127.0.0.1	isolatedovercomepasted.com
