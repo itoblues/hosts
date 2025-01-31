@@ -15,12 +15,13 @@
 *.line.naver.jp
 *.nianticlabs.com
 *.otaserve.net
+*.youtube.com
+*.phncdn.com
+*.amazon-adsystem.com
 6ms.biz
 bango.info
 cdn.fluidplayer.com
 game.fc2.com
 translate-pa.googleapis.com
-s.youtube.com
-*.phncdn.com
 certificates.godaddy.com
-aax-fe.amazon-adsystem.com
+al.dmm.co.jp
