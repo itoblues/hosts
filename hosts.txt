@@ -1,5 +1,8 @@
 127.0.0.1	0xyjcqdxp.com
+127.0.0.1	1bef6d70a4.fc5d7c4624.com
+127.0.0.1	4ad8ea329d.f168b7fa34.com
 127.0.0.1	5ivy3ikkt.com
+127.0.0.1	86a27c155e.b1aa0634bb.com
 127.0.0.1	a.adtng.com
 127.0.0.1	a.exdynsrv.com
 127.0.0.1	a.magsrv.com
@@ -16,6 +19,7 @@
 127.0.0.1	appollo.jp
 127.0.0.1	appollo-plus.com
 127.0.0.1	assets.sb-cd.com
+127.0.0.1	bankingbloatedcaptive.com
 127.0.0.1	b-hls-17.doppiocdn.org
 127.0.0.1	bid.ssp.bance.jp
 127.0.0.1	c.amazon-adsystem.com
@@ -25,6 +29,7 @@
 127.0.0.1	cas.adapf.com
 127.0.0.1	castleconscienceenquired.com
 127.0.0.1	ccds.adapf.com
+127.0.0.1	cdn.bncloudfl.com
 127.0.0.1	cdn.cloudfrale.com
 127.0.0.1	cdn.creative-bars1.com
 127.0.0.1	cdn.jsdelivr.net
@@ -48,12 +53,14 @@
 127.0.0.1	d3mzokty951c5w.cloudfront.net
 127.0.0.1	deliver.ptgncdn.com
 127.0.0.1	diagramjawlineunhappy.com
+127.0.0.1	displayvertising.com
 127.0.0.1	drabimprovement.com
 127.0.0.1	dubunwiseobjections.com
 127.0.0.1	e2c32.gcp.gvt2.com
 127.0.0.1	edayo.ademon.net
 127.0.0.1	edge-hls.doppiocdn.org
 127.0.0.1	endowmentoverhangutmost.com
+127.0.0.1	enlightenedstring.pro
 127.0.0.1	enrichyummy.com
 127.0.0.1	etahub.com
 127.0.0.1	evtubescms.phncdn.com
@@ -82,6 +89,7 @@
 127.0.0.1	impactserving.com
 127.0.0.1	impression-east.liftoff.io
 127.0.0.1	int.akisinn.info
+127.0.0.1	isolatedovercomepasted.com
 127.0.0.1	j.microad.net
 127.0.0.1	ja.live.tktube.com
 127.0.0.1	ja.stripchat.com
@@ -89,6 +97,8 @@
 127.0.0.1	jfgxxijule.ywufsjhc4.jp
 127.0.0.1	jmt7mbwce.com
 127.0.0.1	js.boost-next.co.jp
+127.0.0.1	js.cabnnr.com
+127.0.0.1	js.capndr.com
 127.0.0.1	js.juicyads.com
 127.0.0.1	js.smac-ad.com
 127.0.0.1	js.ssp.bance.jp
@@ -96,6 +106,7 @@
 127.0.0.1	js.wpadmngr.com
 127.0.0.1	leveragebestow.com
 127.0.0.1	mc.yandex.ru
+127.0.0.1	misazbog.com
 127.0.0.1	mp.4dex.io
 127.0.0.1	negxkj5ca.com
 127.0.0.1	nullsglitter.com
@@ -103,7 +114,9 @@
 127.0.0.1	pagead2.googleadservices.com
 127.0.0.1	pagead2.googlesyndication.com
 127.0.0.1	pie2pie3388.spankbang.com
+127.0.0.1	playhubconnect.com
 127.0.0.1	plundertentative.com
+127.0.0.1	plush-region.pro
 127.0.0.1	pompass.net
 127.0.0.1	poweredby.jads.co
 127.0.0.1	pranking6.ziyu.net
@@ -114,6 +127,7 @@
 127.0.0.1	rcm.shinobi.jp
 127.0.0.1	rkgwzfwjgk.com
 127.0.0.1	rt.gsspat.jp
+127.0.0.1	rtbrenab.net
 127.0.0.1	rxeosevsso.com
 127.0.0.1	s.magsrv.com
 127.0.0.1	s.o333o.com
@@ -123,6 +137,7 @@
 127.0.0.1	s7.addthis.com
 127.0.0.1	saltsleaseholder.com
 127.0.0.1	script.4dex.io
+127.0.0.1	shakingtacklingunpeeled.com
 127.0.0.1	spadsync.com
 127.0.0.1	srv1.aaacompany.net
 127.0.0.1	ssl.google-analytics.com
@@ -133,6 +148,7 @@
 127.0.0.1	stats.postgen.com
 127.0.0.1	stats.wordpress.com
 127.0.0.1	stats.wp.com
+127.0.0.1	storage.multstorage.com
 127.0.0.1	sun.creativecarrer.com
 127.0.0.1	syndication.realsrv.com
 127.0.0.1	t7cp4fldl.com
@@ -150,23 +166,13 @@
 127.0.0.1	video.ktkjmp.com
 127.0.0.1	video.saawsedge.com
 127.0.0.1	www.displayvertising.com
+127.0.0.1	www.dizzy-drag.pro
 127.0.0.1	www.google-analytics.com
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	www.gravatar.com
 127.0.0.1	www.hbzgpvvhbqi.com
 127.0.0.1	www.hffqwdkpmqbmwu.com
 127.0.0.1	www.videosprofitnetwork.com
+127.0.0.1	www.zestysample.pro
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
-127.0.0.1	bankingbloatedcaptive.com
-127.0.0.1	playhubconnect.com
-127.0.0.1	drabimprovement.com
-127.0.0.1	misazbog.com
-127.0.0.1	4ad8ea329d.f168b7fa34.com
-127.0.0.1	isolatedovercomepasted.com
-127.0.0.1	1bef6d70a4.fc5d7c4624.com
-127.0.0.1	citadelpathstatue.com
-127.0.0.1	plush-region.pro
-127.0.0.1	www.zestysample.pro
-127.0.0.1	cdn.bncloudfl.com
-127.0.0.1	shakingtacklingunpeeled.com
