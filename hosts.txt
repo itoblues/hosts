@@ -176,3 +176,9 @@
 127.0.0.1	www.zestysample.pro
 127.0.0.1	x9.shinobi.jp
 127.0.0.1	zatnoh.com
+127.0.0.1	www.datadoghq-browser-agent.com
+127.0.0.1	securepubads.g.doubleclick.net
+127.0.0.1	flux-cdn.com
+127.0.0.1	html-load.com
+127.0.0.1	dmp.im-apps.net
+127.0.0.1	d-cache.microad.jp
