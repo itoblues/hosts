@@ -182,3 +182,15 @@
 127.0.0.1	html-load.com
 127.0.0.1	dmp.im-apps.net
 127.0.0.1	d-cache.microad.jp
+# Riskware
+# https://news.yahoo.co.jp/articles/7649018667e7dbe1bea0eb999ec2c3198304308e
+127.0.0.1	Imageconvertors.com
+127.0.0.1	convertitoremp3.it
+127.0.0.1	convertisseurs-pdf.com
+127.0.0.1	convertscloud.com
+127.0.0.1	convertix-api.xyz
+127.0.0.1	convertallfiles.com
+127.0.0.1	freejpgtopdfconverter.com
+127.0.0.1	primeconvertapp.com
+127.0.0.1	9convert.com
+127.0.0.1	Convertpro.org
