@@ -25,4 +25,4 @@ game.fc2.com
 translate-pa.googleapis.com
 certificates.godaddy.com
 al.dmm.co.jp
-hb.alf.rakuten.co.jp
+hb.afl.rakuten.co.jp
