@@ -188,6 +188,7 @@
 127.0.0.1	u.4dex.io
 127.0.0.1	adserver.maximus.mobkoi.com
 127.0.0.1	one.adingo.jp
+127.0.0.1 html-load.com
 127.0.0.1	fb.html-load.com
 127.0.0.1	0.fb.html-load.com
 127.0.0.1	1.fb.html-load.com
