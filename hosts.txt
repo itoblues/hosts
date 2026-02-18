@@ -179,7 +179,6 @@
 127.0.0.1	www.datadoghq-browser-agent.com
 127.0.0.1	securepubads.g.doubleclick.net
 127.0.0.1	flux-cdn.com
-127.0.0.1	html-load.com
 127.0.0.1	dmp.im-apps.net
 127.0.0.1	d-cache.microad.jp
 127.0.0.1	tracking.game8.jp
@@ -189,6 +188,7 @@
 127.0.0.1	u.4dex.io
 127.0.0.1	adserver.maximus.mobkoi.com
 127.0.0.1	one.adingo.jp
+127.0.0.1	html-load.com
 127.0.0.1	fb.html-load.com
 127.0.0.1	0.fb.html-load.com
 127.0.0.1	1.fb.html-load.com
@@ -200,6 +200,17 @@
 127.0.0.1	7.fb.html-load.com
 127.0.0.1	8.fb.html-load.com
 127.0.0.1	9.fb.html-load.com
+127.0.0.1	fb.content-loader.com
+127.0.0.1	0.fb.content-loader.com
+127.0.0.1	1.fb.content-loader.com
+127.0.0.1	2.fb.content-loader.com
+127.0.0.1	3.fb.content-loader.com
+127.0.0.1	4.fb.content-loader.com
+127.0.0.1	5.fb.content-loader.com
+127.0.0.1	6.fb.content-loader.com
+127.0.0.1	7.fb.content-loader.com
+127.0.0.1	8.fb.content-loader.com
+127.0.0.1	9.fb.content-loader.com
 
 # Riskware
 # https://news.yahoo.co.jp/articles/7649018667e7dbe1bea0eb999ec2c3198304308e
