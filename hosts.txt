@@ -188,6 +188,16 @@
 127.0.0.1	u.4dex.io
 127.0.0.1	adserver.maximus.mobkoi.com
 127.0.0.1	one.adingo.jp
+127.0.0.1	0.html-load.com
+127.0.0.1	1.html-load.com
+127.0.0.1	2.html-load.com
+127.0.0.1	3.html-load.com
+127.0.0.1	4.html-load.com
+127.0.0.1	5.html-load.com
+127.0.0.1	6.html-load.com
+127.0.0.1	7.html-load.com
+127.0.0.1	8.html-load.com
+127.0.0.1	9.html-load.com
 127.0.0.1	content-loader.com
 127.0.0.1	0.content-loader.com
 127.0.0.1	1.content-loader.com
