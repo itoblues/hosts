@@ -26,3 +26,4 @@ translate-pa.googleapis.com
 certificates.godaddy.com
 al.dmm.co.jp
 hb.afl.rakuten.co.jp
+s.youtube.com
